@@ -63,8 +63,6 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'yufei.he@bit.edu.cn'
 
-title: :smiley: Hello world!
-
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
