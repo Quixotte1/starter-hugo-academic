@@ -45,7 +45,7 @@ experience:
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
    
-   - title: Research Intern
+  - title: Research Intern
     company: Beijing Institute of Technology
     company_url: ''
     company_logo: bit
