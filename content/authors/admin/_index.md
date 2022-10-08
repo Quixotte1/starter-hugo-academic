@@ -66,6 +66,8 @@ email: 'yufei.he@bit.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+title: :smiley: Hello world!
+
 Hi there, thanks for visiting my website! I am a final year undergraduate student at the Department of Computer Science and Technology, **Beijing Institute of Technology**, majoring in **Data Science**. My research interests include **Geometric Deep Learning**, **Graph machine learning** and **Data mining** in general. Recently, I am focusing on exploring the intersection of self-supervised learning and graph neural networks at both the theoretical and applied levels.
 
 I am currently a research intern in the **KEG** lab at **Tsinghua University**. There I am very fortunate to be advised by **Prof.Jie Tang** and **Prof.Yuxiao Dong**. I am also a research intern at **Zhipu AI** company, where I am a member of the CogDL (a toolkit for DL on Graphs) team.
