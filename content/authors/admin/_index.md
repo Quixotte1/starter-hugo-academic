@@ -69,6 +69,6 @@ highlight_name: true
 Hi there, thanks for visiting my website! I am a final year undergraduate student at the Department of Computer Science and Technology, Beijing Institute of Technology, majoring in Data Science. 
 
 
-* I am actively looking for Ph.D. programs starting in Fall 2023. Please feel free to drop me an email for any form of communication or collaboration!
+* **I am actively looking for Ph.D. programs starting in Fall 2023. Please feel free to drop me an email for any form of communication or collaboration!**
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
