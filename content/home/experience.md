@@ -23,10 +23,10 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
-    company: GenCoin
+    company: KEG lab, Tsinghua University
     company_url: ''
     company_logo: thu
-    location: California
+    location: Beijing
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
@@ -36,10 +36,19 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Intern
+    company: Zhipu AI
     company_url: ''
-    company_logo: org-x
+    company_logo: zhipu
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+   
+   - title: Research Intern
+    company: Beijing Institute of Technology
+    company_url: ''
+    company_logo: bit
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
