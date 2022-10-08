@@ -66,7 +66,7 @@ email: 'yufei.he@bit.edu.cn'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi there, thanks for visiting my website! I am a final year undergraduate student at the Department of Computer Science and Technology, Beijing Institute of Technology, majoring in Data Science. 
+Hi there, thanks for visiting my website! I am a final year undergraduate student at the Department of Computer Science and Technology, Beijing Institute of Technology, majoring in Data Science. My research interests include Geometric Deep Learning, Graph machine learning and Data mining in general. Currently, I am focusing on exploring the intersection of self-supervised learning and graph neural networks at both the theoretical and applied levels.
 
 
 * **I am actively looking for Ph.D. programs starting in Fall 2023. Please feel free to drop me an email for any form of communication or collaboration!**
