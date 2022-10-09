@@ -50,7 +50,7 @@ projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: falsee
+  preview_only: false
   alt_text: ""
 date: 2021-12-01T09:46:20.828Z
 url_slides: ""
