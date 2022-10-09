@@ -51,9 +51,10 @@ featured: true
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
+  filename: scr.png
 date: 2022-10-09T09:46:20.828Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
