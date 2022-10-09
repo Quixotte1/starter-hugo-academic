@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: thu
     location: Beijing
-    date_start: '2021-01-01'
+    date_start: '2021-09-01'
     date_end: ''
     description: 
         
@@ -40,7 +40,7 @@ experience:
     date_end: ''
     description: 
   
-  - title: Research Intern
+  - title: Collaboration
     company: New Jersey Institute of Technology
     company_url: ''
     company_logo: njit
