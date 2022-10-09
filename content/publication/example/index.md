@@ -40,7 +40,6 @@ summary: >-
   improve the performance of graph neural networks.
 url_dataset: ""
 url_project: ""
-url_code: "https://github.com/THUDM/SCR"
 publication_short: arxiv
 url_source: ""
 url_video: ""
@@ -59,5 +58,5 @@ date: 2021-12-01T09:46:20.828Z
 url_slides: ""
 publishDate: 2021-12-01T00:00:00.000Z
 url_poster: ""
-url_code: ""
+url_code: "https://github.com/THUDM/SCR"
 ---
