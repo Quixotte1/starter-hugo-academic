@@ -56,7 +56,7 @@ image:
   alt_text: ""
 date: 2021-12-01T09:46:20.828Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2021-12-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
