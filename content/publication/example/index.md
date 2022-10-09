@@ -52,9 +52,10 @@ tags: []
 projects: []
 image:
   caption: blob:https://www.yufei-he.com/d389615d-15b3-493d-89b0-40f05af7cf9a
-  focal_point: ""
+  focal_point: SMART
   preview_only: false
-  filename: ""
+  filename: scr.png
+  alt_text: ""
 date: 2021-12-01T09:46:20.828Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
