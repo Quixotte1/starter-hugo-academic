@@ -50,8 +50,7 @@ projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
-  filename: scr.png
+  preview_only: falsee
   alt_text: ""
 date: 2021-12-01T09:46:20.828Z
 url_slides: ""
