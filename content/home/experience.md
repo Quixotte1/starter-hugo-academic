@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Intern
-    company: KEG lab, Tsinghua University
+    company: KEG Lab, Tsinghua University
     company_url: ''
     company_logo: thu
     location: Beijing
@@ -32,7 +32,7 @@ experience:
     description: 
         
   - title: Research Intern
-    company: Zhipu AI
+    company: CogDL team, Zhipu AI
     company_url: ''
     company_logo: zhipu
     location: Beijing
@@ -41,7 +41,7 @@ experience:
     description: 
   
   - title: Collaboration
-    company: New Jersey Institute of Technology
+    company: DAMI Lab, New Jersey Institute of Technology
     company_url: ''
     company_logo: njit
     location: Remote
