@@ -34,13 +34,13 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: arxiv
+publication: Arxiv
 summary: >-
   We present a semi-supervised consistency regularization framework-SCR to
   improve the performance of graph neural networks.
 url_dataset: ""
 url_project: ""
-publication_short: arxiv
+publication_short: Arxiv
 url_source: ""
 url_video: ""
 title: "SCR: Training Graph Neural Networks with Consistency Regularization"
