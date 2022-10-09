@@ -49,7 +49,7 @@ tags: []
 projects: []
 image:
   caption: ""
-  focal_point: ""
+  focal_point: SMART
   preview_only: false
   alt_text: ""
 date: 2021-12-01T09:46:20.828Z
