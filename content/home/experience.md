@@ -29,30 +29,34 @@ experience:
     location: Beijing
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: 
         
-        * Analysing
-        * Modelling
-        * Deploying
-
   - title: Research Intern
     company: Zhipu AI
     company_url: ''
     company_logo: zhipu
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-   
+    location: Beijing
+    date_start: '2022-06-01'
+    date_end: ''
+    description: 
+  
+  - title: Research Intern
+    company: New Jersey Institute of Technology
+    company_url: ''
+    company_logo: njit
+    location: Remote
+    date_start: '2022-01-01'
+    date_end: '2022-06-30'
+    description: 
+    
   - title: Research Intern
     company: Beijing Institute of Technology
     company_url: ''
     company_logo: bit
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Beijing
+    date_start: '2020-09-01'
+    date_end: '2021-09-01'
+    description: 
 
 design:
   columns: '2'
