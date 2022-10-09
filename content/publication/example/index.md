@@ -19,7 +19,7 @@ abstract: We present the SCR framework for enhancing the training of graph
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "3"
 authors:
   - Chenhui Zhang
   - admin
@@ -51,11 +51,11 @@ featured: true
 tags: []
 projects: []
 image:
-  caption: ""
+  caption: blob:https://www.yufei-he.com/d389615d-15b3-493d-89b0-40f05af7cf9a
   focal_point: ""
   preview_only: false
   filename: scr.png
-date: 2022-10-09T09:46:20.828Z
+date: 2021-12-01T09:46:20.828Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
