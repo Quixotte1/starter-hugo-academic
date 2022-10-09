@@ -17,7 +17,7 @@ abstract: We present the SCR framework for enhancing the training of graph
   enhance various GNNs to achieve better performance. Finally, SCR has been the
   top-1 entry on all three OGB leaderboards as of this submission.
 slides: ""
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2112.04319.pdf"
 publication_types:
   - "3"
 authors:
@@ -37,9 +37,7 @@ author_notes:
 publication: arxiv
 summary: >-
   We present a semi-supervised consistency regularization framework-SCR to
-  improve the performance of graph
-
-  neural networks.
+  improve the performance of graph neural networks.
 url_dataset: ""
 url_project: ""
 publication_short: arxiv
@@ -51,7 +49,7 @@ featured: true
 tags: []
 projects: []
 image:
-  caption: blob:https://www.yufei-he.com/d389615d-15b3-493d-89b0-40f05af7cf9a
+  caption: blob:https://github.com/THUDM/SCR/blob/main/scr_figure.png
   focal_point: SMART
   preview_only: false
   filename: scr.png
