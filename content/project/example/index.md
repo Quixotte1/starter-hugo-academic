@@ -1,5 +1,5 @@
 ---
-slides: example
+slides: 
 url_pdf: ""
 summary: I won first place on three OGB node classification datasets using the
   SCR framework!
@@ -9,7 +9,7 @@ external_link: ""
 url_slides: ""
 title: OGB Node Property Prediction
 tags:
-  - Deep Learning
+  - OGB
 links:
   - url: https://ogb.stanford.edu/docs/leader_nodeprop/
     icon_pack: ai
