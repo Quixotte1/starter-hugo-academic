@@ -31,7 +31,7 @@ abstract: As Graph Neural Networks (GNNs) are widely used in various fields,
   conducted comprehensive experiments on eight datasets of different sizes - up
   to 100 million nodes - under various settings. The results demonstrated that
   SGKD is able to significantly outperform existing KD methods and even achieve
-  comparable performance with their state-of-the-art GNN teachers
+  comparable performance with their state-of-the-art GNN teachers.
 draft: false
 featured: true
 image:
