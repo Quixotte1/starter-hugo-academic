@@ -35,9 +35,10 @@ abstract: As Graph Neural Networks (GNNs) are widely used in various fields,
 draft: false
 featured: true
 image:
-  filename: sgkd.jpg
-  focal_point: Smart
+  caption: ""
+  focal_point: SMART
   preview_only: false
+  alt_text: ""
 summary: We propose SGKD-a new and more effective knowledge distillation
   framework for scalable graph representation learning.
 date: 2022-10-10T03:27:17.667Z
