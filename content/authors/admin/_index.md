@@ -44,4 +44,4 @@ I am currently a research intern in the **KEG** lab at **Tsinghua University**. 
 
 * **I am actively looking for Ph.D. programs starting in Fall 2023. Please feel free to drop me an email for any form of communication or collaboration!**
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
